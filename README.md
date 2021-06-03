@@ -1,4 +1,4 @@
-# Sequence Set and B+ Tree
+# Sequence Set with B+ Tree
 Sequence Set and B+ Tree. Data Structure work.
 
 By Chrystian A. Amaral, Débora Rossini and Thiago S. Santos.
